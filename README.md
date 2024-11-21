@@ -781,7 +781,7 @@ If your school allows the uBlock Origin Chrome extension, you can run bookmarkle
 ```
 *##+js(execute_script.js)
 ```
-6. Now press ctrl+1 to run code on the current page
+6. Now press ctrl+` to run code on the current page
 7. Have fun!
 
 [**🔼 Back to top**](#ext-remover)
