@@ -1,9 +1,9 @@
 # EXT-REMOVER
 This is a curated list of exploits for ChromeOS. It started with LTBEEF, and now there are more! Some of these exploits can destroy your computer if misused. So PLEASE, PLEASE make sure you follow these instructions very carefully!
 
-<b>Need help? Ask for help <a href="https://github.com/3kh0/ext-remover/discussions">here</a>!</b>
+<b>Need help? Ask for help <a href="https://github.com/A-person-personfile/chrome/discussions">here</a>!</b>
 
-Please use these only when you have permission, I (3kh0) do not condone the use of any exploits for illegal purposes!
+Please use these only when you have permission, I (A-person-personfile) do not condone the use of any exploits for illegal purposes!
 
 <img width="250px" src="https://user-images.githubusercontent.com/58097612/191354621-bf7ff072-b9d7-46b5-994a-4d2adbf0e4f3.png">
 
@@ -11,7 +11,7 @@ Image Credit: LittleMissNyan
 
 Thank you to all of the contributors! You all are pretty epic :D
 
-<a href="https://github.com/3kh0/ext-remover/graphs/contributors"><img src="https://contrib.rocks/image?repo=3kh0/ext-remover" /></a>
+<a href="https://github.com/A-person-personfile/chrome/graphs/contributors"><img src="https://contrib.rocks/image?repo=A-person-personfile/chrome" /></a>
 
 - [EXT-REMOVER](#ext-remover)
   * [ADMVP](#ADMVP)
@@ -204,7 +204,7 @@ An exploit that allows for access to sites outside of the Hapara Focus Session
 **YOU MUST NEED data: LINKS ALLOWED, IF YOU DON'T HAVE THOSE ALLOWED, THIS WILL NOT WORK**.
 
 1. create a bookmark named anything, head to the URL section, and paste this in it: `data:text/html,<!DOCTYPE html> <html> <head> <title>full screen iframe</title> <style type="text/css"> html { overflow: auto; } html, body, div, iframe { margin: 0px; padding: 0px; height: 100%; border: none; } iframe { display: block; width: 100%; border: none; overflow-y: auto; overflow-x: hidden; } </style> </head> <body> <iframe src="https://www.google.com?igu=1" frameborder="0" marginheight="0" marginwidth="0" width="100%" height="100%" scrolling="auto" id="google"> </iframe> </body> </html>`
-2.  when you are in a focus session, click the bookmark, and it will open a Google tab. (If it says that it doesn't work, then you can download the [Iframe](https://github.com/3kh0/ext-remover/blob/main/HaparaBypass-Iframe.html)
+2.  when you are in a focus session, click the bookmark, and it will open a Google tab. (If it says that it doesn't work, then you can download the [Iframe](https://github.com/A-person-personfile/chrome/blob/main/HaparaBypass-Iframe.html)
 3.  enjoy not having to listen to a lecture from your teacher!
 (Credit to [Hero Link 6](https://github.com/HeroLink6) For finding this exploit, you can find more info on his GitHub repository [here](https://github.com/HeroLink6/Hapara-Focus-Session-Bypass/tree/main).)
 
