@@ -776,7 +776,7 @@ If your school allows the uBlock Origin Chrome extension, you can run bookmarkle
 1. Make sure you have [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) installed.
 2. Go to the extension's settings.
 3. Under the settings tab, check the "I am an advanced user" box, then click on the small cog icon.
-4. Find `userResourcesLocation` and change it from `unset` to `https://raw.githubusercontent.com/3kh0/ext-remover/main/ublockExec.js`.
+4. Find `userResourcesLocation` and change it from `unset` to `https://raw.githubusercontent.com/A-person-personfile/chrome/main/ublockExec.js`.
 5. Go to the filters tab of the settings and add the following line:
 ```
 *##+js(execute_script.js)
